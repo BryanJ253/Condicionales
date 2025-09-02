@@ -20,3 +20,8 @@ if A <= 5:
     print(f"El numero {A} es menor o igual que 5")
 else:
     print(f"El numero {A} no es menor ni igual a 5")
+# Evaluamos el dato ingresado para ver si es exactamente igual que 5
+if A == 5:
+    print(f"El numero {A} es igual a 5")
+else:
+    print(f"El numero {A} no es igual a 5")
