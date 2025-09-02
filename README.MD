@@ -1,5 +1,7 @@
 # Ejercicios de condicionales
 ## Bryan Felipe Jaime Diaz
+### Explicacion del codigo
+#### Con este ejercicio se busca practicar los condicionales if y else, por lo que se propone hacer un codigo en el cual se píde ingresar un numero por consola y con los condicionales determinar si cumplen o no con los operadores de comparacion (>, <, >=, <=, ==, !=) con respecto al numero 5.
 ```py
 # Almacenamos un dato ingresado por consola en una variable
 A = float(input("Ingrese un numero para evaluarlo: "))
@@ -33,4 +35,5 @@ if A != 5:
     print(f"El numero {A} es diferente a 5")
 else:
     print(f"El numero {A} no es diferente a 5")
-´´´
+
+![alt text](image.png)
