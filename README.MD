@@ -35,5 +35,4 @@ if A != 5:
     print(f"El numero {A} es diferente a 5")
 else:
     print(f"El numero {A} no es diferente a 5")
-
-<img width="1173" height="552" alt="image" src="https://github.com/BryanJ253/Condicionales/blob/673a16c074c202aff1d3c04eb64e2a6d4c7f13ca/image-2.png?raw=true" />
+![Texto que aparecerá si la imagen no carga](https://github.com/BryanJ253/Condicionales/blob/main/image-1.png)
