@@ -36,4 +36,5 @@ if A != 5:
 else:
     print(f"El numero {A} no es diferente a 5")
 
-![alt text](image-2.png)
+´´´
+![](https://github.com/BryanJ253/Condicionales/blob/main/image.png)
